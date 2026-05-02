@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+site.db
+.DS_Store
+00Tree.html
